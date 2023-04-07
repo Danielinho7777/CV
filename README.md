@@ -3,8 +3,11 @@
 Carrera de Geografía 
 --------------------
 **Nombre**: Daniel Saravia Cruz 
+
 __Datos de contacto:__ 8888-8888 
+
 **Áreas de interés** 
+
 - Geopolítica 
 - Sistemas de Información Geográfica
 - Geomorfología 
